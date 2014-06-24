@@ -10,6 +10,7 @@ cowabunga-ideais-062014
 * http://onsenui.io/
 * https://parse.com/
 * http://jtrussell.github.io/angular-snap.js/
+* https://github.com/cgross/angular-busy
 * https://developers.facebook.com/docs/javascript
 
 
