@@ -2,6 +2,7 @@ cowabunga-ideais-062014
 =======================
 
 
+* https://github.com/yeoman/yo
 * https://github.com/yeoman/generator-angular
 * http://phonegap.com/
 * http://docs.phonegap.com/en/3.5.0/index.html
