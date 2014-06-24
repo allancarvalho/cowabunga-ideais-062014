@@ -2,10 +2,15 @@ cowabunga-ideais-062014
 =======================
 
 
+* https://github.com/yeoman/generator-angular
+* http://phonegap.com/
+* http://docs.phonegap.com/en/3.5.0/index.html
+* https://build.phonegap.com/plugins
 * http://ionicframework.com/
 * http://onsenui.io/
-* https://build.phonegap.com/plugins
 * https://parse.com/
+* http://jtrussell.github.io/angular-snap.js/
+* https://github.com/cgross/angular-busy
 * https://developers.facebook.com/docs/javascript
 
 
