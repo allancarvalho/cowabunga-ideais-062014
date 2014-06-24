@@ -9,6 +9,7 @@ cowabunga-ideais-062014
 * http://ionicframework.com/
 * http://onsenui.io/
 * https://parse.com/
+* http://jtrussell.github.io/angular-snap.js/
 * https://developers.facebook.com/docs/javascript
 
 
